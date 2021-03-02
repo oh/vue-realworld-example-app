@@ -18,7 +18,7 @@
                 class="form-control form-control-lg"
                 type="text"
                 v-model="email"
-                placeholder="Email"
+                placeholder="Balls"
               />
             </fieldset>
             <fieldset class="form-group">
